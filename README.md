@@ -1,4 +1,4 @@
-# Self-Driving-Car-
+# Self-Driving-Car
 Analyzed 21,000+ images using Pandas addressing class imbalances and improving augmentation strategies.
 <br>
 Enhanced data quality by 20% with SAGAN, achieved 95% object detection accuracy using YOLOv9 and boosted
